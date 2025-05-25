@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Datos
+/data/
+*.csv
+*.json
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
